@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(59, 54, 54);
+    width: 95%;
+    margin: 3%;
+}
+
+hr{
+    border: #ffffff solid 3px;
+}
+
+h1{
+    color: aliceblue;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.white{
+    color: aliceblue;
+}
+
+img{
+    margin-right: 5%;
+    width: 21%;
+}
+
+video{
+    width: 40%;
+}
+
+audio, h3{
+     margin: 0%;
+}
+
+p{
+    margin: 3%;
+    text-align: justify;
+}
+
+#div1{
+    text-align: center;
+}
+
+div{
+    background-color: aliceblue
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+}
+
