@@ -4,7 +4,7 @@ Projeto de um site de notícias desenvolvido com **HTML5 e CSS3**, com foco na o
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O site simula uma página de notícias online o objetivo foi praticar a construção de páginas estruturadas e visualmente organizadas utilizando apenas HTML e CSS.
 
